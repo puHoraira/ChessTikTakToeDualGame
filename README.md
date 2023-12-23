@@ -24,9 +24,9 @@ sudo apt install gcc
 
 sudo apt install g++
 
-git clone https://github.com/puHoraira/DualGameProject1-2.git
+git clone https://github.com/puHoraira/ChessTikTakToeDualGame.git
 
-cd DualGameProject1-2
+cd ChessTikTakToeDualGame
 
 cd sourceCodes
 
