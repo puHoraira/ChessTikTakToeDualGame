@@ -18,11 +18,17 @@ For query : mdabu-2021911202@cs.du.ac.bd
 
 Run command for ubuntu terminal:
 
+Installing SDL2 library:
+
 sudo apt install libsdl2*
+
+Installing GCC and G++:
 
 sudo apt install gcc
 
 sudo apt install g++
+
+Installing and running game:
 
 git clone https://github.com/puHoraira/ChessTikTakToeDualGame.git
 
